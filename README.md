@@ -1,10 +1,6 @@
-# ng-three-template
+# spa-webgl-template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) and is designed as a basic template for [ThreeJS](https://threejs.org/) combined with [Angular](https://angular.io/) and [Bootstrap](https://getbootstrap.com/) in Version 4.x
-
-The project is setup to use global [SCSS](https://sass-lang.com/) only and [ViewEncapsulation.None](https://angular.io/api/core/ViewEncapsulation).
-
-Feel free to do anything you want with this template.
+This project is a template to build modern Single Page Applications using Angular 6, threejs, GSAP and Scroll Magic.
 
 ## Development server
 
@@ -27,5 +23,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
+
+For more information check out upstream repo: https://github.com/JohnnyDevNull/ng-three-template
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
