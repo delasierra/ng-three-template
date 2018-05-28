@@ -9,5 +9,6 @@ if (environment.production) {
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule, [{
+  // TODO check this line
   defaultEncapsulation: ViewEncapsulation.None
 }]).catch(err => console.log(err));

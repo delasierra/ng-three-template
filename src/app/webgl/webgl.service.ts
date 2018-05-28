@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 
-export class EngineService {
+export class WebglService {
   private canvas: HTMLCanvasElement;
   private renderer: THREE.WebGLRenderer;
   private camera: THREE.PerspectiveCamera;
