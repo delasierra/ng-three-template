@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-declare let ScrollMagic: any;
-// declare let TweenMax: any;
 
 @Component({
   selector: 'app-root',

@@ -10,6 +10,8 @@ import { UiInfobarTopComponent } from './ui/ui-infobar-top/ui-infobar-top.compon
 import { UiSidebarLeftComponent } from './ui/ui-sidebar-left/ui-sidebar-left.component';
 import { UiSidebarRightComponent } from './ui/ui-sidebar-right/ui-sidebar-right.component';
 import { MainAnimationsComponent } from './animations/main-animations/main-animations.component';
+import { ScrollPageComponent } from './sections/scroll-page/scroll-page.component';
+
 
 
 @NgModule({
@@ -21,7 +23,8 @@ import { MainAnimationsComponent } from './animations/main-animations/main-anima
     UiInfobarTopComponent,
     UiSidebarLeftComponent,
     UiSidebarRightComponent,
-    MainAnimationsComponent
+    MainAnimationsComponent,
+    ScrollPageComponent
   ],
   imports: [
     BrowserModule
