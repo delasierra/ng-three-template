@@ -12,8 +12,6 @@ import { UiSidebarRightComponent } from './ui/ui-sidebar-right/ui-sidebar-right.
 import { MainAnimationsComponent } from './animations/main-animations/main-animations.component';
 import { ScrollPageComponent } from './sections/scroll-page/scroll-page.component';
 
-
-
 @NgModule({
   declarations: [
     AppComponent,
