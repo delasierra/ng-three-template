@@ -1,6 +1,6 @@
 # spa-webgl-template (underwork)
 
-**WORKING ON** a template to build modern Single Page Applications using Angular 6, threejs, GSAP and Scroll Magic.
+**WORKING ON** a template to build modern Single Page Applications using Angular 6, threejs, GSAP and scroll events.
 
 ## Development server
 
