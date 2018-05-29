@@ -1,11 +1,18 @@
-import { Injectable } from '@angular/core';
-
-declare let ScrollMagic: any;
+import {Injectable} from '@angular/core';
 
 @Injectable({
-  providedIn: 'root'
+    providedIn: 'root'
 })
 export class ScrollActionService {
 
-  constructor() { }
+    // public ScrollMagic: any;
+    // public controller: any;
+
+    constructor() {
+
+        // this.ScrollMagic = require("scrollmagic");
+        // require("scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap");
+        // this.controller = new this.ScrollMagic.Controller();
+
+    }
 }
